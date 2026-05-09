@@ -1,14 +1,14 @@
-# Avatar Website — коротко про сайт
+# Avatar Website — shortly about the site
 
-Сайт присвячений всесвіту фільму.  
-Він оформлений у стилі культури На’ві та містить атмосферний дизайн із цитатами, зображеннями та закликом приєднатися до “клану”.
+The site is dedicated to the film universe. 
+It is decorated in the style of Na’vi culture and contains an atmospheric design with quotes, images and a call to join the “clan”.
 
-## Що є на сайті
-- Головна сторінка з тематичним оформленням
-- Цитати персонажів Джейка Саллі та Нейтірі
-- Кнопка перегляду трейлера
-- Невеликий розділ для вивчення мови На’ві
-- Контактні email для Q&A та співпраці
+## What is on the site
+- Themed homepage
+- Quotes from Jake Sully and Neytiri
+- Watch trailer button
+- Small section for learning Na’vi
+- Contact emails for Q&A and collaboration
 
-## Основна ідея
-Сайт створений як фанатський/промо-проєкт у стилі Avatar, щоб передати атмосферу світу Пандори та познайомити користувачів із культурою На’ві.
+## Main idea
+The site was created as a fan/promotional project in the style of Avatar to convey the atmosphere of the world of Pandora and introduce users to Na'vi culture.
